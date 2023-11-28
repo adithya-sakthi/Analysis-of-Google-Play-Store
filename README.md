@@ -17,3 +17,4 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 9. _**Popularity of paid apps vs free apps**_
 10. _**Sentiment analysis of user reviews**_
 
+View the dataset on [kaggle] (https://www.kaggle.com/datasets/utshabkumarghosh/android-app-market-on-google-play)
